@@ -1,3 +1,3 @@
 # portafolio
 portafolio1
-portafolioricardoleon.netlify.app
+https://portafolioricardoleon.netlify.app/
